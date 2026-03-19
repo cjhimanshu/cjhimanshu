@@ -4,7 +4,7 @@
 
 **Full Stack Developer (MERN) · MCA Student · Gurugram, India**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/himanshu-kumar) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/cjhimanshu) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:cjhimanshu49@gmail.com) [![Profile Views](https://komarev.com/ghpvc/?username=cjhimanshu&style=flat-square&color=6e40c9&label=views)](https://github.com/cjhimanshu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-kumar-02ab40249/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/cjhimanshu) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mail-cjhimanshu49@gmail.com) [![Profile Views](https://komarev.com/ghpvc/?username=cjhimanshu&style=flat-square&color=6e40c9&label=views)](https://github.com/cjhimanshu)
 
 </div>
 
@@ -60,8 +60,4 @@ Built responsive web apps with React and JavaScript in an agile team environment
 
 ## GitHub Stats
 
-<div align="center">
-
 ![Stats](https://github-readme-stats.vercel.app/api?username=cjhimanshu&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github)
-
-</div>
