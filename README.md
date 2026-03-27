@@ -61,3 +61,5 @@ Built responsive web apps with React and JavaScript in an agile team environment
 ## GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=cjhimanshu&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=cjhimanshu&theme=github-dark-blue&hide_border=true)
