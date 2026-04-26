@@ -1,65 +1,132 @@
-<div align="center">
+<!-- Typing header -->
+<p align="center">
+  <a href="https://github.com/cjhimanshu">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Himanshu+Kumar+%F0%9F%91%8B;Full+Stack+Developer+(MERN);MCA+Student+from+Gurugram%2C+India;I+build+scalable+Web+Apps+%26+REST+APIs" alt="Typing SVG" />
+  </a>
+</p>
 
-# Himanshu Kumar
-
-**Full Stack Developer (MERN) · MCA Student · Gurugram, India**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-kumar-02ab40249/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/cjhimanshu) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mail-cjhimanshu49@gmail.com) [![Profile Views](https://komarev.com/ghpvc/?username=cjhimanshu&style=flat-square&color=6e40c9&label=views)](https://github.com/cjhimanshu)
-
-</div>
-
----
-
-## About
-
-I build full-stack web applications using the MERN stack. Currently pursuing MCA at St. Andrews Institute of Technology, Gurugram, and working on **RailMadad** — a railway complaint & helpdesk platform. Open to internships, freelance work, and open-source collaboration.
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,tailwind,python,cpp,git,github,vscode,postman,vercel&perline=9)](https://skillicons.dev)
-
-</div>
+<!-- Badges + views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=cjhimanshu&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="mailto:mail-cjhimanshu49@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/himanshu-kumar-02ab40249/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/cjhimanshu">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## Projects
+## 👨‍💻 About Me
 
-**[RailMadad](https://github.com/cjhimanshu/railmadad)** — Railway Complaint & Helpdesk Platform `MERN`
-Real-time complaint tracking with role-based dashboards for passengers, staff & admins. JWT auth + MongoDB Atlas.
-
-**[KodeBase](https://github.com/cjhimanshu/kodbase)** — Multi-Language Online Coding Platform `React · Piston API` &nbsp;·&nbsp; [Live](https://kodbase.vercel.app/)
-Code editor supporting 10+ languages. Save & run snippets in browser with full auth and developer dashboard.
-
-**[Hotel Booking System](https://github.com/cjhimanshu/hotel-booking-system)** — Full-Stack Reservation Platform `MERN · Razorpay`
-Complete booking flow with payment integration, admin dashboard, and email notifications via EmailJS.
-
-**[Portfolio](https://github.com/cjhimanshu/cj_portfolio)** — Personal Developer Portfolio `Next.js · TypeScript · Tailwind`
-Responsive, mobile-first portfolio showcasing projects and skills.
+- **Full Stack Developer (MERN)** & **MCA student** based in **Gurugram, India**
+- Building **scalable web apps**, **REST APIs**, and **real-world products**
+- Currently working on **RailMadad** (railway complaint & helpdesk platform)
+- Actively practicing **DSA**, **problem-solving**, and **system design**
+- Open to **internships**, **freelance work**, and **open-source contributions**
 
 ---
 
-## Experience
+## 🛠 Tech Stack
 
-**Web Development Intern** · CodSoft &nbsp;`Aug – Sep 2023`
-Built responsive web apps with React and JavaScript in an agile team environment.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,mongodb,cpp,python,html,css,tailwind,git,github,firebase,vercel,netlify&perline=9" />
+</p>
 
 ---
 
-## Education
+## 🚀 Featured Projects
 
-| Degree | Institute | Year |
-|--------|-----------|------|
+### 🚆 RailMadad  
+**Railway Complaint & Helpdesk Platform** · `MERN`
+
+- Role-based dashboards for passengers, staff, and admins  
+- JWT authentication, protected routes, and MongoDB Atlas  
+- Focus on real-world workflow and usability  
+
+🔗 **Repo:** https://github.com/cjhimanshu/railmadad  
+
+---
+
+### 💻 KodeBase  
+**Multi-Language Online Coding Platform** · `React · Piston API`
+
+- Supports 10+ programming languages in the browser  
+- Execute code with Piston API and manage code snippets  
+- Auth + clean coding interface for practice and experimentation  
+
+🔗 **Repo:** https://github.com/cjhimanshu/kodbase  
+🔗 **Live:** https://kodbase.vercel.app/  
+
+---
+
+### 🏨 Hotel Booking System  
+**Full-Stack Reservation Platform** · `MERN · Razorpay`
+
+- End-to-end hotel booking flow with Razorpay payments  
+- Admin dashboard for managing bookings and rooms  
+- Email notifications with EmailJS  
+
+🔗 **Repo:** https://github.com/cjhimanshu/hotel-booking-system  
+
+---
+
+### 🌐 Portfolio  
+**Personal Developer Portfolio** · `Next.js · TypeScript · Tailwind`
+
+- Responsive, mobile-first portfolio  
+- Showcases projects, skills, and contact details  
+
+🔗 **Repo:** https://github.com/cjhimanshu/cj_portfolio  
+
+---
+
+## 💼 Experience
+
+**Web Development Intern — CodSoft**  
+`Aug 2023 – Sep 2023`  
+
+- Built responsive web apps using React and JavaScript  
+- Worked in an agile environment and collaborated with a team  
+
+---
+
+## 🎓 Education
+
+| Degree | Institute | Duration |
+|--------|-----------|----------|
 | MCA | St. Andrews Institute of Technology, Gurugram | 2024 – 2026 |
-| BCA | Patliputra University, Rohtak | 2021 – 2024 |
+| BCA | Patliputra University | 2021 – 2024 |
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=cjhimanshu&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cjhimanshu&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="165" />
+  <img src="https://streak-stats.demolab.com?user=cjhimanshu&theme=github-dark-blue&hide_border=true" height="165" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=cjhimanshu&theme=github-dark-blue&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cjhimanshu&theme=github-dark&hide_border=true" />
+</p>
+
+---
+
+## 🎯 Current Focus
+
+- Building **production-ready MERN applications**
+- Strengthening **DSA** and **interview preparation**
+- Learning **deployment, scalability, and backend architecture**
+
+---
+
+## 🤝 Let’s Connect
+
+- LinkedIn: **https://www.linkedin.com/in/himanshu-kumar-02ab40249/**  
+- Email: **mail-cjhimanshu49@gmail.com**  
+- GitHub: **https://github.com/cjhimanshu**
